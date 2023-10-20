@@ -22,4 +22,4 @@ async def plant(ctx, times: int, content='Cuando plantamos árboles, plantamos l
         await ctx.send(content)
 
 
-bot.run("MTE2NTA1NjI1Mzk0OTY0NDg2MA.GRYvyr.h7al-avi9eIW0HGCFGSrlEv_CfoYnU6T3VmeMA")
+bot.run("Tu token")
